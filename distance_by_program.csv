@@ -1,0 +1,196 @@
+"","de_nde","term","prog_2dig","enrollment","retention","success","success_rate","retention_rate"
+"1","Non-distance Education","Fall 2017","Biological Sciences-04",2496,2139,1896,0.759615384615385,0.856971153846154
+"2","Non-distance Education","Fall 2017","Business and Management-05",3440,3104,2792,0.811627906976744,0.902325581395349
+"3","Non-distance Education","Fall 2017","Commercial Services-30",875,846,752,0.859428571428571,0.966857142857143
+"4","Non-distance Education","Fall 2017","Education-08",4088,3619,3182,0.778375733855186,0.88527397260274
+"5","Non-distance Education","Fall 2017","Engineering and Industrial Technologies-09",4007,3793,3572,0.891439980034939,0.946593461442476
+"6","Non-distance Education","Fall 2017","Environmental Sciences and Technologies-03",303,270,240,0.792079207920792,0.891089108910891
+"7","Non-distance Education","Fall 2017","Family and Consumer Sciences-13",2191,2044,1852,0.845276129621178,0.932907348242812
+"8","Non-distance Education","Fall 2017","Fine and Applied Arts-10",2433,2199,1965,0.807644882860666,0.903822441430333
+"9","Non-distance Education","Fall 2017","Foreign Language-11",1035,897,783,0.756521739130435,0.866666666666667
+"10","Non-distance Education","Fall 2017","Health-12",2820,2609,2390,0.847517730496454,0.925177304964539
+"11","Non-distance Education","Fall 2017","Humanities (Letters)-15",7558,6581,5275,0.697935961894681,0.870732998147658
+"12","Non-distance Education","Fall 2017","Information Technology-07",1415,1275,1115,0.787985865724382,0.901060070671378
+"13","Non-distance Education","Fall 2017","Interdisciplinary Studies-49",3230,3016,2583,0.79969040247678,0.93374613003096
+"14","Non-distance Education","Fall 2017","Mathematics-17",5599,4516,3217,0.574566886944097,0.806572602250402
+"15","Non-distance Education","Fall 2017","Media and Communications-06",480,424,384,0.8,0.883333333333333
+"16","Non-distance Education","Fall 2017","Physical Sciences-19",2877,2331,1926,0.669447340980188,0.81021897810219
+"17","Non-distance Education","Fall 2017","Psychology-20",1965,1686,1377,0.700763358778626,0.858015267175573
+"18","Non-distance Education","Fall 2017","Public and Protective Services-21",1832,1556,1252,0.683406113537118,0.849344978165939
+"19","Non-distance Education","Fall 2017","Social Sciences-22",4542,3750,3108,0.684280052840158,0.825627476882431
+"20","Non-distance Education","Fall 2018","Biological Sciences-04",2394,2103,1794,0.74937343358396,0.878446115288221
+"21","Non-distance Education","Fall 2018","Business and Management-05",2136,1716,1364,0.638576779026217,0.803370786516854
+"22","Non-distance Education","Fall 2018","Commercial Services-30",827,824,664,0.802902055622733,0.996372430471584
+"23","Non-distance Education","Fall 2018","Education-08",4168,3834,3486,0.83637236084453,0.919865642994242
+"24","Non-distance Education","Fall 2018","Engineering and Industrial Technologies-09",3433,3186,3069,0.893970288377512,0.928051267113312
+"25","Non-distance Education","Fall 2018","Environmental Sciences and Technologies-03",327,309,276,0.844036697247706,0.944954128440367
+"26","Non-distance Education","Fall 2018","Family and Consumer Sciences-13",1748,1636,1480,0.846681922196796,0.935926773455378
+"27","Non-distance Education","Fall 2018","Fine and Applied Arts-10",2705,2320,2059,0.761182994454713,0.857670979667283
+"28","Non-distance Education","Fall 2018","Foreign Language-11",915,765,684,0.747540983606557,0.836065573770492
+"29","Non-distance Education","Fall 2018","Health-12",2921,2688,2444,0.836699760356042,0.920232796987333
+"30","Non-distance Education","Fall 2018","Humanities (Letters)-15",7418,6233,5149,0.694122404960906,0.840253437584255
+"31","Non-distance Education","Fall 2018","Information Technology-07",1460,1244,960,0.657534246575342,0.852054794520548
+"32","Non-distance Education","Fall 2018","Interdisciplinary Studies-49",3342,3108,2747,0.82196289646918,0.929982046678636
+"33","Non-distance Education","Fall 2018","Mathematics-17",5401,4264,2916,0.53990001851509,0.789483428994631
+"34","Non-distance Education","Fall 2018","Media and Communications-06",520,416,360,0.692307692307692,0.8
+"35","Non-distance Education","Fall 2018","Physical Sciences-19",2607,2229,1827,0.700805523590334,0.855005753739931
+"36","Non-distance Education","Fall 2018","Psychology-20",1857,1605,1314,0.707592891760905,0.864297253634895
+"37","Non-distance Education","Fall 2018","Public and Protective Services-21",1916,1684,1444,0.753653444676409,0.878914405010438
+"38","Non-distance Education","Fall 2018","Social Sciences-22",4290,3669,2955,0.688811188811189,0.855244755244755
+"39","Non-distance Education","Fall 2019","Biological Sciences-04",2598,2187,1794,0.690531177829099,0.841801385681293
+"40","Non-distance Education","Fall 2019","Business and Management-05",2036,1704,1412,0.693516699410609,0.836935166994106
+"41","Non-distance Education","Fall 2019","Commercial Services-30",748,708,682,0.911764705882353,0.946524064171123
+"42","Non-distance Education","Fall 2019","Education-08",3416,3016,2782,0.81440281030445,0.882903981264637
+"43","Non-distance Education","Fall 2019","Engineering and Industrial Technologies-09",3079,2768,2528,0.82104579408899,0.898993179603767
+"44","Non-distance Education","Fall 2019","Environmental Sciences and Technologies-03",315,297,273,0.866666666666667,0.942857142857143
+"45","Non-distance Education","Fall 2019","Family and Consumer Sciences-13",1556,1396,1292,0.830334190231362,0.897172236503856
+"46","Non-distance Education","Fall 2019","Fine and Applied Arts-10",2683,2378,2062,0.768542676108833,0.886321282146851
+"47","Non-distance Education","Fall 2019","Foreign Language-11",1023,870,804,0.785923753665689,0.850439882697947
+"48","Non-distance Education","Fall 2019","Health-12",2625,2423,2248,0.856380952380952,0.923047619047619
+"49","Non-distance Education","Fall 2019","Humanities (Letters)-15",7594,6348,5022,0.661311561759284,0.835923097181986
+"50","Non-distance Education","Fall 2019","Information Technology-07",924,728,544,0.588744588744589,0.787878787878788
+"51","Non-distance Education","Fall 2019","Interdisciplinary Studies-49",3200,2928,2470,0.771875,0.915
+"52","Non-distance Education","Fall 2019","Mathematics-17",5080,3861,2786,0.548425196850394,0.76003937007874
+"53","Non-distance Education","Fall 2019","Media and Communications-06",444,396,324,0.72972972972973,0.891891891891892
+"54","Non-distance Education","Fall 2019","Physical Sciences-19",2697,2217,1782,0.660734149054505,0.82202447163515
+"55","Non-distance Education","Fall 2019","Psychology-20",2046,1809,1455,0.711143695014663,0.8841642228739
+"56","Non-distance Education","Fall 2019","Public and Protective Services-21",1860,1612,1404,0.754838709677419,0.866666666666667
+"57","Non-distance Education","Fall 2019","Social Sciences-22",4929,4242,3414,0.692635423006695,0.860620815581254
+"58","Non-distance Education","Fall 2020","Biological Sciences-04",1002,798,573,0.57185628742515,0.796407185628742
+"59","Non-distance Education","Fall 2020","Business and Management-05",836,700,620,0.741626794258373,0.837320574162679
+"60","Non-distance Education","Fall 2020","Commercial Services-30",610,587,569,0.932786885245902,0.962295081967213
+"61","Non-distance Education","Fall 2020","Education-08",613,501,410,0.66884176182708,0.817292006525285
+"62","Non-distance Education","Fall 2020","Engineering and Industrial Technologies-09",529,495,390,0.737240075614367,0.935727788279773
+"63","Non-distance Education","Fall 2020","Environmental Sciences and Technologies-03",0,0,0,NA,NA
+"64","Non-distance Education","Fall 2020","Family and Consumer Sciences-13",916,808,692,0.755458515283843,0.882096069868996
+"65","Non-distance Education","Fall 2020","Fine and Applied Arts-10",986,855,721,0.731237322515213,0.867139959432049
+"66","Non-distance Education","Fall 2020","Foreign Language-11",459,429,396,0.862745098039216,0.934640522875817
+"67","Non-distance Education","Fall 2020","Health-12",997,946,867,0.869608826479438,0.948846539618857
+"68","Non-distance Education","Fall 2020","Humanities (Letters)-15",1493,1258,1021,0.683858004018754,0.842598794373744
+"69","Non-distance Education","Fall 2020","Information Technology-07",100,84,64,0.64,0.84
+"70","Non-distance Education","Fall 2020","Interdisciplinary Studies-49",1416,1282,1155,0.815677966101695,0.905367231638418
+"71","Non-distance Education","Fall 2020","Mathematics-17",2831,2236,1690,0.596962204168138,0.789826916283999
+"72","Non-distance Education","Fall 2020","Media and Communications-06",60,40,40,0.666666666666667,0.666666666666667
+"73","Non-distance Education","Fall 2020","Physical Sciences-19",1662,1458,1227,0.73826714801444,0.877256317689531
+"74","Non-distance Education","Fall 2020","Psychology-20",144,138,135,0.9375,0.958333333333333
+"75","Non-distance Education","Fall 2020","Public and Protective Services-21",936,864,796,0.85042735042735,0.923076923076923
+"76","Non-distance Education","Fall 2020","Social Sciences-22",1581,1428,1161,0.734345351043643,0.903225806451613
+"77","Non-distance Education","Fall 2021","Biological Sciences-04",558,492,396,0.709677419354839,0.881720430107527
+"78","Non-distance Education","Fall 2021","Business and Management-05",1692,1428,1176,0.695035460992908,0.843971631205674
+"79","Non-distance Education","Fall 2021","Commercial Services-30",602,561,521,0.865448504983389,0.931893687707641
+"80","Non-distance Education","Fall 2021","Education-08",1935,1795,1560,0.806201550387597,0.92764857881137
+"81","Non-distance Education","Fall 2021","Engineering and Industrial Technologies-09",1177,1067,908,0.771452846219201,0.906542056074766
+"82","Non-distance Education","Fall 2021","Environmental Sciences and Technologies-03",0,0,0,NA,NA
+"83","Non-distance Education","Fall 2021","Family and Consumer Sciences-13",4,4,4,1,1
+"84","Non-distance Education","Fall 2021","Fine and Applied Arts-10",416,367,324,0.778846153846154,0.882211538461538
+"85","Non-distance Education","Fall 2021","Foreign Language-11",87,69,57,0.655172413793103,0.793103448275862
+"86","Non-distance Education","Fall 2021","Health-12",1736,1622,1519,0.875,0.934331797235023
+"87","Non-distance Education","Fall 2021","Humanities (Letters)-15",4144,3406,2543,0.613658301158301,0.821911196911197
+"88","Non-distance Education","Fall 2021","Information Technology-07",304,256,176,0.578947368421053,0.842105263157895
+"89","Non-distance Education","Fall 2021","Interdisciplinary Studies-49",927,859,766,0.826321467098166,0.926645091693635
+"90","Non-distance Education","Fall 2021","Mathematics-17",2152,1785,1309,0.608271375464684,0.829460966542751
+"91","Non-distance Education","Fall 2021","Media and Communications-06",20,16,16,0.8,0.8
+"92","Non-distance Education","Fall 2021","Physical Sciences-19",1332,1155,942,0.707207207207207,0.867117117117117
+"93","Non-distance Education","Fall 2021","Psychology-20",0,0,0,NA,NA
+"94","Non-distance Education","Fall 2021","Public and Protective Services-21",992,956,824,0.830645161290323,0.963709677419355
+"95","Non-distance Education","Fall 2021","Social Sciences-22",1515,1422,1188,0.784158415841584,0.938613861386139
+"96","Distance Education","Fall 2017","Biological Sciences-04",0,0,0,NA,NA
+"97","Distance Education","Fall 2017","Business and Management-05",1652,1244,980,0.593220338983051,0.753026634382567
+"98","Distance Education","Fall 2017","Commercial Services-30",0,0,0,NA,NA
+"99","Distance Education","Fall 2017","Education-08",168,144,136,0.80952380952381,0.857142857142857
+"100","Distance Education","Fall 2017","Engineering and Industrial Technologies-09",0,0,0,NA,NA
+"101","Distance Education","Fall 2017","Environmental Sciences and Technologies-03",0,0,0,NA,NA
+"102","Distance Education","Fall 2017","Family and Consumer Sciences-13",912,688,640,0.701754385964912,0.754385964912281
+"103","Distance Education","Fall 2017","Fine and Applied Arts-10",450,402,252,0.56,0.893333333333333
+"104","Distance Education","Fall 2017","Foreign Language-11",0,0,0,NA,NA
+"105","Distance Education","Fall 2017","Health-12",176,176,112,0.636363636363636,1
+"106","Distance Education","Fall 2017","Humanities (Letters)-15",2898,2520,2022,0.697722567287785,0.869565217391304
+"107","Distance Education","Fall 2017","Information Technology-07",3144,2640,2184,0.694656488549618,0.83969465648855
+"108","Distance Education","Fall 2017","Interdisciplinary Studies-49",504,448,324,0.642857142857143,0.888888888888889
+"109","Distance Education","Fall 2017","Library Science-16",0,0,0,NA,NA
+"110","Distance Education","Fall 2017","Mathematics-17",684,474,252,0.368421052631579,0.692982456140351
+"111","Distance Education","Fall 2017","Media and Communications-06",488,448,392,0.80327868852459,0.918032786885246
+"112","Distance Education","Fall 2017","Physical Sciences-19",396,354,258,0.651515151515151,0.893939393939394
+"113","Distance Education","Fall 2017","Psychology-20",2130,1944,1362,0.63943661971831,0.912676056338028
+"114","Distance Education","Fall 2017","Public and Protective Services-21",1004,800,498,0.49601593625498,0.796812749003984
+"115","Distance Education","Fall 2017","Social Sciences-22",4590,3768,2934,0.63921568627451,0.820915032679739
+"116","Distance Education","Fall 2018","Biological Sciences-04",0,0,0,NA,NA
+"117","Distance Education","Fall 2018","Business and Management-05",2560,2000,1336,0.521875,0.78125
+"118","Distance Education","Fall 2018","Commercial Services-30",0,0,0,NA,NA
+"119","Distance Education","Fall 2018","Education-08",334,300,282,0.844311377245509,0.898203592814371
+"120","Distance Education","Fall 2018","Engineering and Industrial Technologies-09",0,0,0,NA,NA
+"121","Distance Education","Fall 2018","Environmental Sciences and Technologies-03",0,0,0,NA,NA
+"122","Distance Education","Fall 2018","Family and Consumer Sciences-13",736,680,624,0.847826086956522,0.923913043478261
+"123","Distance Education","Fall 2018","Fine and Applied Arts-10",630,564,402,0.638095238095238,0.895238095238095
+"124","Distance Education","Fall 2018","Foreign Language-11",96,78,78,0.8125,0.8125
+"125","Distance Education","Fall 2018","Health-12",418,372,332,0.794258373205742,0.889952153110048
+"126","Distance Education","Fall 2018","Humanities (Letters)-15",3072,2472,2090,0.680338541666667,0.8046875
+"127","Distance Education","Fall 2018","Information Technology-07",3120,2650,2166,0.694230769230769,0.849358974358974
+"128","Distance Education","Fall 2018","Interdisciplinary Studies-49",428,362,324,0.757009345794392,0.845794392523365
+"129","Distance Education","Fall 2018","Library Science-16",0,0,0,NA,NA
+"130","Distance Education","Fall 2018","Mathematics-17",680,518,312,0.458823529411765,0.761764705882353
+"131","Distance Education","Fall 2018","Media and Communications-06",392,320,256,0.653061224489796,0.816326530612245
+"132","Distance Education","Fall 2018","Physical Sciences-19",696,468,384,0.551724137931034,0.672413793103448
+"133","Distance Education","Fall 2018","Psychology-20",2790,2268,1746,0.625806451612903,0.812903225806452
+"134","Distance Education","Fall 2018","Public and Protective Services-21",1774,1376,812,0.45772266065389,0.77564825253664
+"135","Distance Education","Fall 2018","Social Sciences-22",7362,6030,4644,0.63080684596577,0.819070904645477
+"136","Distance Education","Fall 2019","Biological Sciences-04",0,0,0,NA,NA
+"137","Distance Education","Fall 2019","Business and Management-05",1648,1262,920,0.558252427184466,0.765776699029126
+"138","Distance Education","Fall 2019","Commercial Services-30",0,0,0,NA,NA
+"139","Distance Education","Fall 2019","Education-08",736,698,680,0.923913043478261,0.948369565217391
+"140","Distance Education","Fall 2019","Engineering and Industrial Technologies-09",0,0,0,NA,NA
+"141","Distance Education","Fall 2019","Environmental Sciences and Technologies-03",0,0,0,NA,NA
+"142","Distance Education","Fall 2019","Family and Consumer Sciences-13",2360,2096,1632,0.691525423728814,0.888135593220339
+"143","Distance Education","Fall 2019","Fine and Applied Arts-10",1566,1328,1004,0.641123882503193,0.848020434227331
+"144","Distance Education","Fall 2019","Foreign Language-11",138,108,108,0.782608695652174,0.782608695652174
+"145","Distance Education","Fall 2019","Health-12",470,394,358,0.761702127659574,0.838297872340426
+"146","Distance Education","Fall 2019","Humanities (Letters)-15",3084,2526,2220,0.719844357976654,0.819066147859922
+"147","Distance Education","Fall 2019","Information Technology-07",3426,2828,2014,0.587857559836544,0.825452422650321
+"148","Distance Education","Fall 2019","Interdisciplinary Studies-49",472,376,336,0.711864406779661,0.796610169491525
+"149","Distance Education","Fall 2019","Library Science-16",0,0,0,NA,NA
+"150","Distance Education","Fall 2019","Mathematics-17",1020,758,332,0.325490196078431,0.743137254901961
+"151","Distance Education","Fall 2019","Media and Communications-06",1104,952,736,0.666666666666667,0.86231884057971
+"152","Distance Education","Fall 2019","Physical Sciences-19",744,534,420,0.564516129032258,0.717741935483871
+"153","Distance Education","Fall 2019","Psychology-20",3282,2832,2160,0.658135283363803,0.862888482632541
+"154","Distance Education","Fall 2019","Public and Protective Services-21",1672,1496,1150,0.687799043062201,0.894736842105263
+"155","Distance Education","Fall 2019","Social Sciences-22",7698,6354,5088,0.660950896336711,0.825409197194076
+"156","Distance Education","Fall 2020","Biological Sciences-04",3936,3354,2946,0.748475609756098,0.852134146341463
+"157","Distance Education","Fall 2020","Business and Management-05",5432,4302,3520,0.648011782032401,0.791973490427099
+"158","Distance Education","Fall 2020","Commercial Services-30",0,0,0,NA,NA
+"159","Distance Education","Fall 2020","Education-08",4366,4054,3778,0.865322950068713,0.928538708199725
+"160","Distance Education","Fall 2020","Engineering and Industrial Technologies-09",3730,3284,2918,0.78230563002681,0.880428954423592
+"161","Distance Education","Fall 2020","Environmental Sciences and Technologies-03",744,678,624,0.838709677419355,0.911290322580645
+"162","Distance Education","Fall 2020","Family and Consumer Sciences-13",3560,3232,2848,0.8,0.907865168539326
+"163","Distance Education","Fall 2020","Fine and Applied Arts-10",3866,3344,2648,0.684945680289705,0.864976720124159
+"164","Distance Education","Fall 2020","Foreign Language-11",1278,1116,978,0.765258215962441,0.873239436619718
+"165","Distance Education","Fall 2020","Health-12",3614,3418,3030,0.838406198118428,0.945766463752075
+"166","Distance Education","Fall 2020","Humanities (Letters)-15",13988,11856,9106,0.650986559908493,0.847583643122677
+"167","Distance Education","Fall 2020","Information Technology-07",6146,5360,4116,0.669703872437358,0.872111942726977
+"168","Distance Education","Fall 2020","Interdisciplinary Studies-49",1362,1248,1080,0.79295154185022,0.916299559471366
+"169","Distance Education","Fall 2020","Library Science-16",0,0,0,NA,NA
+"170","Distance Education","Fall 2020","Mathematics-17",3402,2642,1986,0.583774250440917,0.776601998824221
+"171","Distance Education","Fall 2020","Media and Communications-06",1312,1112,856,0.652439024390244,0.847560975609756
+"172","Distance Education","Fall 2020","Physical Sciences-19",2910,2562,2208,0.758762886597938,0.880412371134021
+"173","Distance Education","Fall 2020","Psychology-20",6474,5382,4386,0.677479147358665,0.831325301204819
+"174","Distance Education","Fall 2020","Public and Protective Services-21",2964,2436,1998,0.674089068825911,0.821862348178138
+"175","Distance Education","Fall 2020","Social Sciences-22",12822,11688,9816,0.765559195133365,0.911558259241928
+"176","Distance Education","Fall 2021","Biological Sciences-04",4008,3366,2796,0.697604790419162,0.839820359281437
+"177","Distance Education","Fall 2021","Business and Management-05",3134,2548,2114,0.674537332482451,0.813018506700702
+"178","Distance Education","Fall 2021","Commercial Services-30",4,4,4,1,1
+"179","Distance Education","Fall 2021","Education-08",2534,2366,2030,0.801104972375691,0.933701657458563
+"180","Distance Education","Fall 2021","Engineering and Industrial Technologies-09",2200,1936,1596,0.725454545454545,0.88
+"181","Distance Education","Fall 2021","Environmental Sciences and Technologies-03",1056,936,864,0.818181818181818,0.886363636363636
+"182","Distance Education","Fall 2021","Family and Consumer Sciences-13",4608,3952,3368,0.730902777777778,0.857638888888889
+"183","Distance Education","Fall 2021","Fine and Applied Arts-10",4094,3378,2658,0.64924279433317,0.825109916951636
+"184","Distance Education","Fall 2021","Foreign Language-11",1914,1626,1422,0.74294670846395,0.849529780564263
+"185","Distance Education","Fall 2021","Health-12",1444,1240,982,0.68005540166205,0.858725761772853
+"186","Distance Education","Fall 2021","Humanities (Letters)-15",6562,5652,4508,0.686985675099055,0.861322767448949
+"187","Distance Education","Fall 2021","Information Technology-07",4474,3746,3122,0.697809566383549,0.837282074206527
+"188","Distance Education","Fall 2021","Interdisciplinary Studies-49",2390,2130,1586,0.663598326359833,0.891213389121339
+"189","Distance Education","Fall 2021","Library Science-16",21,21,15,0.714285714285714,1
+"190","Distance Education","Fall 2021","Mathematics-17",3054,2184,1636,0.535690897184021,0.715127701375246
+"191","Distance Education","Fall 2021","Media and Communications-06",968,800,664,0.685950413223141,0.826446280991736
+"192","Distance Education","Fall 2021","Physical Sciences-19",2670,2244,1836,0.687640449438202,0.840449438202247
+"193","Distance Education","Fall 2021","Psychology-20",5226,4356,3372,0.645235361653272,0.833524684270953
+"194","Distance Education","Fall 2021","Public and Protective Services-21",2096,1872,1398,0.666984732824427,0.893129770992366
+"195","Distance Education","Fall 2021","Social Sciences-22",11460,10230,8028,0.700523560209424,0.892670157068063
